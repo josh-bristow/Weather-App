@@ -1,0 +1,14 @@
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\bin\Debug\MyWeatherApp.exe.config
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\bin\Debug\MyWeatherApp.exe
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\bin\Debug\MyWeatherApp.pdb
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.csproj.AssemblyReference.cache
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.Properties.Resources.resources
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.csproj.GenerateResource.cache
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.exe
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.pdb
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.Form1.resources
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joshb\source\repos\MyWeatherApp\MyWeatherApp\obj\Debug\MyWeatherApp.csproj.CopyComplete
